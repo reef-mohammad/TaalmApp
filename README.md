@@ -1,6 +1,8 @@
-# welcome
+# Taalm
 
 A new Flutter project.
+Self-based Learning Application
+for Autistic Children
 
 ## Getting Started
 
