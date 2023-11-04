@@ -1,18 +1,5 @@
-# Taalm
+# Taalm , The Graduation Project
 
-A new Flutter project.
-Self-based Learning Application
-for Autistic Children
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Created a self-based learning app for ASD children using the PECS method, enabling them to express
+emotions and needs. Developed a diagnostic test for parents to identify potential ASD symptoms, fostering
+early intervention and support.
